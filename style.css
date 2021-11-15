@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin; 0;
+}
+/* .bg-img
+    background-image: url();
+    background-size: 100%; */
+}
+.homeimage{
+    background-image: url();
+    background-size:100%
+}
+body{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.logo{
+    background-color: white;
+    padding: 0px 25px;
+    font-size: 10px;
+    border-radius:20px;
+    font-weight:100;
+    margin-top: 7%;
+    margin-left: 30%;
+    margin-right: 75%;
+width: 13%;
+}
+.logo1{
+    background-color: white;
+    padding: 0px 25px;
+    font-size: 10px;
+    border-radius:20px;
+    font-weight:100;
+    margin-top: 7%;
+    margin-left: 30%;
+    margin-right: 75%;
+    width: 13%;
+}
+ .navbar-brand img{
+ height: 60px;
+ padding left: 80px;   
+}
+.navbar-nav li a
+{
+ color: #fff;
+ font-weight: 900;
+}
+/*.form-row{
+    background: #fff
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px;
+}*/
+ /*login starts*/
+ .form-group{
+     height: 65px;
+     padding-top: 20px;
+     font-family: sans-serif;
+     font-weight: 600;
+ }
+ .container{border: 0px solid #fff; padding: 80px 70px;
+    margin: 100px;}
+.form-container{
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 20px 40px 50px;
+    border: 2px solid #e5e5e5;
+    padding: 20px 40px 50px;
+    border-radius: 20px;
+}
+.bg-img{
+    background-image: url();
+    max-width: 100%;
+    height: auto;
+}
+.background-image: url("");
+
+}
+.signup-box{
+    width:360px;
+    height: 820px;
+    margin:auto;
+    background-color: 3px;
+
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+} 
+.form{
+    width:300px;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.form-box{
+    max-width: 1700px;
+    margin: 500;
+    padding: 30px 100px 200px;
+    .bg-color{
+        background-image: url() ;
+    }
+}.carousel-item{
+    height: 35rem;
+    background-color: gray;
+}
+.carousel-text{
+    line-height: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.carousel-image{
+    position: sticky;
+    margin-left: 350px;
+}
